@@ -1,0 +1,2 @@
+rootProject.name='IspitRMA'
+include ':app'
